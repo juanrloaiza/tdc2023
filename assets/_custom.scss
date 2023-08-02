@@ -1,0 +1,22 @@
+.csl-entry {
+    padding-left: 22px;
+    text-indent: -22px;
+}
+
+.book-brand a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+        justify-content: center;
+        margin-bottom: 1.5em;
+        width: 128px;
+        height: 128px
+    }
+}
+
+
+hr {
+    margin-bottom: 1.5rem;
+}

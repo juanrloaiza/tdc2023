@@ -1,0 +1,10 @@
+baseURL = 'http://tdc2023.juanrloaiza.com/'
+languageCode = 'es-co'
+title = 'Teoría del conocimiento 2023'
+theme = 'hugo-book'
+[params]
+    BookSearch = false
+    BookSection = "*"
+    BookToC = false
+    BookLogo = 'logo.png'
+    author = 'Juan R. Loaiza'
