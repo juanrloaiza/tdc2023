@@ -17,10 +17,14 @@ El curso usará distintos formatos de evaluación que pueden incluir la escritur
 
 La rúbrica servirá de guía para los y las estudiantes y estará disponible con antelación a la fecha de evaluación. Los y las estudiantes podrán sugerir modificaciones a la rúbrica presentada por el profesor durante las sesiones de clase anteriores a la fecha de evaluación. El profesor evaluará las modificaciones sugeridas y decidirá si implementarlas o mantener la rúbrica original propuesta, respetando tiempos razonables para la preparación de los y las estudiantes. Una vez pasada la fecha de evaluación, no habrá modificaciones a la rúbrica de evaluación. 
 
+El curso comprende dos exámenes parciales presenciales y una evaluación final. Adicionalmente, cada sesión se realizará un control de lectura. Este control de lectura se entregará durante los primeros veinte (20) minutos de la sesión. Cada estudiante deberá entregar un mínimo de ocho (8) controles de lectura a lo largo del semestre.
+Se considera la ponderación de las evaluaciones y las fechas de exámenes y evaluación final como se especifica a continuación:
+
 ## Fechas de evaluación
 
-| Fecha | Evaluación        | Porcentaje |
-| ----- | ----------------- | ---------- |
-| 27.9  | Examen parcial I  | 30%        |
-| 1.11  | Examen parcial II | 30%        |
-| 29.11 | Examen final      | 40%        |
+| Fecha       | Evaluación                    | Porcentaje |
+| ----------- | ----------------------------- | ---------- |
+| Cada sesión | Controles de lectura (mín. 8) | 10%        |
+| 27.09       | Examen parcial I              | 30%        |
+| 08.11       | Examen parcial II             | 30%        |
+| 29.11       | Examen final                  | 30%        |

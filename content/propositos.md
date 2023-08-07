@@ -8,7 +8,7 @@ weight: 1
 Al final del curso, los y las estudiantes estarán en capacidad de:
 
 * Explicar la estructura del esquema tripartito del conocimiento y los retos que implican algunos argumentos escépticos y los contrajemplos Gettier.
-* Distinguir y contrastar las teorías fundacionalistas, coherentistas, fiabilistas y relativistas de la justificación epistémica.
+* Distinguir y contrastar las teorías fundacionalistas, coherentistas y fiabilistas de la justificación epistémica.
 * Explicar la tesis de la epistemología naturalizada y su impacto sobre las teorías contemporáneas en epistemología social.
 
 ## Habilidades generales
