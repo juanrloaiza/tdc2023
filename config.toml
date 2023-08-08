@@ -1,4 +1,4 @@
-baseURL = 'http://tdc2023.juanrloaiza.com/'
+baseURL = 'https://tdc2023.juanrloaiza.com/'
 languageCode = 'es-co'
 title = 'Teoría del conocimiento 2023'
 theme = 'hugo-book'
