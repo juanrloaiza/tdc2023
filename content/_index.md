@@ -15,7 +15,7 @@ Oficina: 315
 ### Ayudante
 
 Nicolás Délano  
-[correo](mailto:correo)
+[nikolas.delano@gmail.com](mailto:nikolas.delano@gmail.com)
                
 ### Más información
   
